@@ -61,5 +61,5 @@ Fixed tensor shape issues in the CNN by adjusting layer dimensions.
 ## Acknowledgments
 This project marks my first deep dive into deep learning. I learned from various resources, including PyTorch documentation, online tutorials, and an AI assistant that helped streamline development.
 
----
-Built with passion, relentless curiosity, and lines of cod by Yeg.
+
+--- Built with passion, relentless curiosity, and lines of cod by Yeg.
