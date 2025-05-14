@@ -42,15 +42,15 @@ mnist_digit_classification/
 ├── README.md              # Documentation
 ```
 
-## Results
+# Results
 
-# Sample Digits:
+## Sample Digits:
 ![sample_digits](https://github.com/user-attachments/assets/53616189-6a7c-4609-b720-4f6d85771d27)
 
-# Loss and Accuracy:
+## Loss and Accuracy:
 ![loss_and_accuracy_plot](https://github.com/user-attachments/assets/a914e225-bed2-4457-bded-9056c2258357)
 
-# Sample Predictions:
+## Sample Predictions:
 ![predictions](https://github.com/user-attachments/assets/d4a29ace-1af2-4014-97f6-4bebd8589823)
 
 ## Challenges Faced
