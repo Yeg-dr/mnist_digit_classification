@@ -54,23 +54,23 @@ mnist_digit_classification/
 ![predictions](https://github.com/user-attachments/assets/d4a29ace-1af2-4014-97f6-4bebd8589823)
 
 ## Challenges Faced
-#Learning Rate Tuning:
+- Learning Rate Tuning:
 Experimented with learning rates to achieve faster convergence.
-#Overfitting: 
+- Overfitting: 
 Added dropout (0.2) to improve model generalization.
-#Debugging: 
+- Debugging: 
 Fixed tensor shape issues in the CNN by adjusting layer dimensions.
 
 ## What I Learned
-1. Building and training CNNs for image classification with PyTorch.
-2. Preprocessing image datasets and using DataLoader.
-3. Visualizing model performance through loss and accuracy plots.
-4. Analyzing model errors to identify improvement opportunities.
+- Building and training CNNs for image classification with PyTorch.
+- Preprocessing image datasets and using DataLoader.
+- Visualizing model performance through loss and accuracy plots.
+- Analyzing model errors to identify improvement opportunities.
 
 ## Future Improvements
-1. Create a web interface with Streamlit for interactive digit classification.
-2. Experiment with deeper CNN architectures or data augmentation.
-3. Test the model on real-world handwritten digits (e.g., scanned images).
+- Create a web interface with Streamlit for interactive digit classification.
+- Experiment with deeper CNN architectures or data augmentation.
+- Test the model on real-world handwritten digits (e.g., scanned images).
 
 ## Acknowledgments
 This project marks my first deep dive into deep learning. I learned from various resources, including PyTorch documentation, online tutorials, and an AI assistant that helped streamline development.
