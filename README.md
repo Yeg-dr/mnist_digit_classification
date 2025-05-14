@@ -17,5 +17,6 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
 
 ## Installation
 To run this project, install the required libraries:
-`bash
+```bash
 pip install -r requirements.txt
+```
