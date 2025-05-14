@@ -20,3 +20,11 @@ To run this project, install the required libraries:
 ```bash
 pip install -r requirements.txt
 ```
+## Usage
+1. Clone the repository
+```bash
+git clone https://github.com/yeg-dr/mnist-digit-classification
+```
+2. Open main.py inJupyter Notebook or run main.py in your python environment.
+3. Execute all cells/scripts to train the model and view result.
+4. Check the result/ folder for visualizations (sample digits, loss/accuracy plots, and predictions.
