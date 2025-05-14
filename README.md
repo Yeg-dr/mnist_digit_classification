@@ -8,7 +8,6 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
 - Implements a CNN with two convolutional layers, max-pooling, and fully connected layers.
 - Visualizes training/test loss and accuracy over epochs.
 - Displays sample predictions with true and predicted labels.
-- Includes error analysis to explore misclassified digits.
 
 ## Technologies Used
 - Python
@@ -28,3 +27,16 @@ git clone https://github.com/yeg-dr/mnist-digit-classification
 2. Open main.py inJupyter Notebook or run main.py in your python environment.
 3. Execute all cells/scripts to train the model and view result.
 4. Check the result/ folder for visualizations (sample digits, loss/accuracy plots, and predictions.
+
+# Project Structure
+mnist_digit_classification/
+├── main.ipynb              # Main code (Jupyter Notebook)
+├── mnist_cnn.pth          # Trained model weights (optional)
+├── requirements.txt        # Dependencies
+├── results/               # Visualizations
+│   ├── sample_digits.png  # Sample MNIST digits
+│   ├── loss_plot.png      # Loss over epochs
+│   ├── accuracy_plot.png  # Accuracy over epochs
+│   ├── predictions.png    # Predicted vs true labels
+│   ├── incorrect_predictions.png  # Misclassified digits
+├── README.md              # Documentation
