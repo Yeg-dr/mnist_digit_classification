@@ -29,6 +29,7 @@ git clone https://github.com/yeg-dr/mnist-digit-classification
 4. Check the result/ folder for visualizations (sample digits, loss/accuracy plots, and predictions.
 
 # Project Structure
+```bash
 mnist_digit_classification/
 ├── main.ipynb              # Main code (Jupyter Notebook)
 ├── mnist_cnn.pth          # Trained model weights (optional)
@@ -40,3 +41,4 @@ mnist_digit_classification/
 │   ├── predictions.png    # Predicted vs true labels
 │   ├── incorrect_predictions.png  # Misclassified digits
 ├── README.md              # Documentation
+```
