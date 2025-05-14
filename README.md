@@ -1,1 +1,1 @@
-# mnist_digit_classification
+# Digit Classification with CNN on MNIST Dataset
