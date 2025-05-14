@@ -28,20 +28,6 @@ git clone https://github.com/yeg-dr/mnist-digit-classification
 3. Execute all cells/scripts to train the model and view result.
 4. Check the result/ folder for visualizations (sample digits, loss/accuracy plots, and predictions.
 
-## Project Structure
-```bash
-mnist_digit_classification/
-├── main.ipynb              # Main code (Jupyter Notebook)
-├── mnist_cnn.pth          # Trained model weights (optional)
-├── requirements.txt        # Dependencies
-├── results/               # Visualizations
-│   ├── sample_digits.png  # Sample MNIST digits
-│   ├── loss_and_accuracy_plot.png  # Loss and Accuracy over epochs
-│   ├── predictions.png    # Predicted vs true labels
-│   ├── incorrect_predictions.png  # Misclassified digits
-├── README.md              # Documentation
-```
-
 # Results
 
 ## Sample Digits:
